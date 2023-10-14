@@ -8,7 +8,7 @@ Map Description:
 > Edge One is the first map i created for the mod "Edge". It is a symmetrical map. Some parts of the front-entrance was borrowed from the map "ATCS-HD". Featuring two opposing bases situated at opposite ends, the map's focal point is a spacious central area. This open expanse is surrounded by large rocks, maintaining a natural ambiance. The skybox above has been meticulously crafted to enhance the overall atmosphere. Additionally, "Edge One" incorporates a handful of new texture. 
 
 * * *
-
+ 
 ## Screenshots:
 [<img src="meta/preview_levelshots/1.jpg" width="250"/>](meta/preview_levelshots/1.jpg)
 [<img src="meta/preview_levelshots/2.jpg" width="250"/>](meta/preview_levelshots/2.jpg)
