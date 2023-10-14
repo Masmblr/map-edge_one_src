@@ -138,7 +138,6 @@ textures\edge_one\wall_01_step_03.jpg <sup>[1](#Credit-1) \
 textures\edge_one\wall_01_thin.jpg <sup>[1](#Credit-1) \
 textures\edge_one\wall_01_thin_02.jpg <sup>[1](#Credit-1) \
 textures\edge_one\wall_01_thin_03.jpg <sup>[1](#Credit-1)
-
 ***
 
 ### Credit-1
