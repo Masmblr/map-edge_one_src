@@ -32,10 +32,10 @@ Some textures I have drawn for the map: </br>
 [<img src="meta/preview_textures/8.jpg" width="200"/>](meta/preview_textures/8.jpg)
 
 ## Version History:
-| Version: | Date:        | Status: | Release Build (.pk3):       
-| ------- | ------------- | ------: | -----------------: |
-| 0.1 - 0.3     | 13/06/2014  | alpha | :x:        |     
-| 1.0     | 26/08/2023  | final | [💾](https://github.com/Masmblr/map-Edge_One_src/releases/) |
+| Version: | Date:        | Status: |
+| ------- | ------------- | ------: |
+| 0.1 - 0.3     | 13/06/2014  | alpha |
+| 1.0     | 26/08/2023  | release |
 
 ## How-To
 **Binary**:
@@ -141,7 +141,7 @@ textures\edge_one\wall_01_thin_03.jpg <sup>[1](#Credit-1)</sup>
 ***
 
 ### Credit-1
-[Matthias "Masmblr Peters"](mailto:masmblr@gmail.com) \
+[Matthias "Masmblr" Peters](mailto:masmblr@gmail.com) \
 Content: Map, Textures, Shaders \
 License: [MIT License](https://opensource.org/license/mit/).
 (See "LICENSE" file for more Informations.)
